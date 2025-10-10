@@ -140,7 +140,7 @@ a:hover {
       visibility: hidden; } }
 
 .uni-medicare-header {
-  background-color: #ffffff;
+  background-color: #d5c0c0;
   -webkit-box-shadow: inset -0px -3px 0 0 #3f97da;
   box-shadow: inset -0px -3px 0 0 #3f97da; }
 
@@ -623,6 +623,10 @@ a:hover {
         color: #fff;
         background: #3f97da; }
 
+        #id_unique{
+
+          border-radius: 50px;
+        }
 /*show-hover-shortcodes*/
 .uni-medicare-header-main {
   position: relative; }
